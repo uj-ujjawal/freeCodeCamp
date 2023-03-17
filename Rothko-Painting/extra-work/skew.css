@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 550px;
+  padding: 50px;
+  margin: 100px auto;
+  height: 600px;
+  background-color: wheat;
+}
+
+h1:active {
+  /* transform: skewX(20deg); */
+  /* transform: skewX(-20deg); */
+  /* transform: skewY(20deg); */
+  /* transform: skewY(-20deg); */
+  /* transform: skew(20deg, -20deg); */
+  /* transform: skew(-20deg, 20deg); */
+  transform: skew(-20deg, -20deg);
+}
+
+.box {
+  margin: 100px auto;
+  width: 200px;
+  height: 200px;
+  background-color: chocolate;
+}
+
+p{
+  text-align: center;
+  font-size: 24px;
+}
+
+.box:hover {
+  /* transform: skewX(20deg); */
+  /* transform: skewX(-20deg); */
+  /* transform: skewY(20deg); */
+  /* transform: skewY(-20deg); */
+  /* transform: skew(20deg, -20deg); */
+  /* transform: skew(-20deg, 20deg); */
+  transform: skew(20deg, 20deg);
+}

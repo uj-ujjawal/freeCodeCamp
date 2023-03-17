@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: darkolivegreen;
+}
+
+.container {
+  width: 500px;
+  height: 500px;
+  margin: 100px auto;
+  border: 2px solid black;
+  padding: 20px;
+  text-align: center;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  margin: 100px auto;
+  background-color: turquoise;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.box:hover {
+  transform: scaleX(1); /* no change */
+  transform: scaleY(1); /* no change */
+  /* transform: scaleX(2); */ /* increase in diretion of x, means horizontally */
+  /* transform: scaleY(2); */ /* increase in diretion of y, means vertically */
+  transform: scale(1.5, 2); /* increase in both direction x & y */
+}
+
+h1:hover{
+  transform: scale(1.4,1.4); 
+  /* transform: scale(-1,-1); */ /* Reverse the text */
+}
