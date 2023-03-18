@@ -11,6 +11,8 @@ This repo contain all my source code that I am learning and doing pracite with [
 - [**Survey Form - The Project**](/Survey-form/)
 - [**Learn The CSS Box Model by Building a Rothko Painting**](/Rothko-Painting/)
 - [**Learn CSS Flexbox by Building a Photo Gallery**](./Photo-Gallery/)
+- [**Learn Typography by Building a Nutrition Lable**](./Typography/)
+- [Learn Accessibilty by Building a Quiz](.)
 
 ## 📚 Resources
 
