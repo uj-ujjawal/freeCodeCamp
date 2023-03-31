@@ -13,6 +13,7 @@ This repo contain all my source code that I am learning and doing pracite with [
 - [**Learn CSS Flexbox by Building a Photo Gallery**](./Photo-Gallery/)
 - [**Learn Typography by Building a Nutrition Lable**](./Typography/)
 - [**Learn Accessibilty by Building a Quiz**](./Accessibility-Quiz/)
+- [**Learn More About CSS Pseudo Selectors By Building A Balance Sheet**](./A-Balance-Sheet/)
 
 ## 📚 Resources
 
