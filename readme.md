@@ -14,6 +14,7 @@ This repo contain all my source code that I am learning and doing pracite with [
 - [**Learn Typography by Building a Nutrition Lable**](./Typography/)
 - [**Learn Accessibilty by Building a Quiz**](./Accessibility-Quiz/)
 - [**Learn More About CSS Pseudo Selectors By Building A Balance Sheet**](./A-Balance-Sheet/)
+- [**Learn Intermediate CSS by Building a Picasso Painting**](/Picasso-Painting/)
 
 ## 📚 Resources
 
