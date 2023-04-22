@@ -11,10 +11,12 @@ This repo contain all my source code that I am learning and doing pracite with [
 - [**Survey Form - The Project**](/Survey-form/)
 - [**Learn The CSS Box Model by Building a Rothko Painting**](/Rothko-Painting/)
 - [**Learn CSS Flexbox by Building a Photo Gallery**](./Photo-Gallery/)
-- [**Learn Typography by Building a Nutrition Lable**](./Typography/)
-- [**Learn Accessibilty by Building a Quiz**](./Accessibility-Quiz/)
+- [**Learn Typography by Building a Nutrition Label**](./Typography/)
+- [**Learn Accessibility by Building a Quiz**](./Accessibility-Quiz/)
 - [**Learn More About CSS Pseudo Selectors By Building A Balance Sheet**](./A-Balance-Sheet/)
 - [**Learn Intermediate CSS by Building a Picasso Painting**](/Picasso-Painting/)
+- [**Learn Responsive Web Design by Building a Piano**](./Building-a-Piano/)
+- [**Learn CSS Variables by Building a City Skyline**](./City-Skyline/)
 
 ## 📚 Resources
 
